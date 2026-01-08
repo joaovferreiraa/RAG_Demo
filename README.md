@@ -2,6 +2,8 @@
 
 This is a study project developed to learn and explore **Retrieval-Augmented Generation (RAG)** techniques using LangChain, OpenAI, and FAISS.
 
+**Live Demo:** https://ragdemo-artieu7yevdrr9hwuaqmfj.streamlit.app/
+
 ## About
 
 This project demonstrates how to build a question-answering system that can read PDF documents and answer questions about their content using AI. It combines document retrieval with large language models to provide accurate, context-aware responses.
